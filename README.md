@@ -5,7 +5,9 @@ project summary
 
                 --Kernel K-means and Inverse Weighed K-Means method as a robust method for substituting traditional K-Means
 
-                --Studied and implemented the Trimmed K-means method under the Lasso and Ridge constraint to deal with irrelevant features and sparse data; used the gradient descent method with a shift in the constraint boundary to get numeric solution
+                --Studied and implemented the Trimmed K-means method under the Lasso and Ridge constraint to deal with irrelevant features and sparse data; 
+                
+                --used the gradient descent method with a shift in the constraint boundary to get numeric solution
 
                 --Applied these robust K-Means algorithm to pattern recognition of handwritten digits
 

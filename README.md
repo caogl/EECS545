@@ -7,7 +7,7 @@ project summary
 
                 --Studied and implemented the Trimmed K-means method under the Lasso and Ridge constraint to deal with irrelevant features and sparse data; 
                 
-                --used the gradient descent method with a shift in the constraint boundary to get numeric solution
+                --Used the gradient descent method with a shift in the constraint boundary to get numeric solution
 
                 --Applied these robust K-Means algorithm to pattern recognition of handwritten digits
 

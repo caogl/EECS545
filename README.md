@@ -23,4 +23,4 @@ files
      --See "poster.pptx" for the poster made for the final presentation
 
 
--------The final project is a team project done by Adam Norton, Yinghe and me. I mainly did two parts, first is the inverse weighted K-Means method, and I also participated in modeling of Trimed K-means, especially how to derive the solution under lasso and Ridge constraint
+-------The final project is a team project done by Adam Norton, Yinghe and me. I mainly did two parts, first is the inverse weighted K-Means method, and I also participated in modeling of Trimed K-means, especially I derive the numerical solution under lasso and Ridge constraint
